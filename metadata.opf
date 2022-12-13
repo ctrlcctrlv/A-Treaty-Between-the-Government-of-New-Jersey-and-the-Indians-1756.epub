@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">58e58354-6fc4-4d1d-92a1-02360670ba5f</dc:identifier>
+        <dc:title>A TREATY Between the Government of New-Jerſey AND THE INDIANS Inhabiting the ſeveral Parts of ſaid Province</dc:title>
+        <dc:creator opf:file-as="New Jersey, Royal Province of" opf:role="aut">Royal Province of New-Jerſey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1756-01-09T05:00:00+00:00</dc:date>
+        <dc:publisher>William Bradford</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Royal Province of New-Jerſey&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2022-12-13T21:39:14.390096+00:00"/>
+        <meta name="calibre:title_sort" content="TREATY Between the Government of New-Jerſey AND THE INDIANS Inhabiting the ſeveral Parts of ſaid Province, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
