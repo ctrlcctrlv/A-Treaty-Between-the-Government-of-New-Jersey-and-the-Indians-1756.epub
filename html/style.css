@@ -1,0 +1,490 @@
+.c {
+    font-family: "EB Garamond 08";
+    font-feature-settings: "swsh" off;
+    line-height: 1.25em
+    }
+.calibre {
+    font-family: "EB Garamond 08"
+    }
+.calibre1 {
+    display: block;
+    font-family: "EB Garamond 08";
+    font-size: 1em;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-bottom: 5em;
+    padding-left: 0;
+    padding-right: 0;
+    float: left;
+    }
+.calibre2 {
+    display: block;
+    font-family: "EB Garamond 08";
+    font-size: 1.5em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.67em
+    }
+.calibre3 {
+    font-family: "EB Garamond 08";
+    font-feature-settings: "swsh" on;
+    font-style: italic;
+    line-height: 1.2
+    }
+.calibre4 {
+    font-family: "EB Garamond 08";
+    font-feature-settings: "swsh" on;
+    font-style: italic
+    }
+.calibre5 {
+    border-bottom-color: currentColor;
+    border-bottom-style: inset;
+    border-bottom-width: 1px;
+    border-left-color: currentColor;
+    border-left-style: inset;
+    border-left-width: 1px;
+    border-right-color: currentColor;
+    border-right-style: inset;
+    border-right-width: 1px;
+    border-top-color: currentColor;
+    border-top-style: inset;
+    border-top-width: 1px;
+    color: gray;
+    display: block;
+    font-family: "EB Garamond 08";
+    height: 2px;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.5em
+    }
+.calibre6 {
+    font-family: "EB Garamond 08";
+    height: 16px;
+    image-rendering: crisp-edges;
+    width: 16px
+    }
+.calibre7 {
+    font-family: "EB Garamond 08";
+    font-size: 0.75em
+    }
+.calibre8 {
+    font-family: "EB Garamond 08";
+    line-height: 1.25em
+    }
+.calibre9 {
+    display: block;
+    font-family: "EB Garamond 08";
+    font-size: 1em;
+    hyphens: auto;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-bottom:5em;
+    padding-left: 0;
+    padding-right: 0
+    }
+.calibre10 {
+    font-family: "EB Garamond 08";
+    height: auto;
+    line-height: 1.25em;
+    text-align: center;
+    width: 80%
+    }
+.calibre11 {
+    font-family: "EB Garamond 08";
+    font-feature-settings: "swsh" on;
+    font-style: italic;
+    line-height: 1.25em;
+    text-align: center
+    }
+.calibre12 {
+    display: block;
+    font-family: "EB Garamond 08";
+    line-height: 1.25em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.calibre13 {
+    border-collapse: separate;
+    border-spacing: 2px;
+    display: table;
+    font-family: "EB Garamond 08";
+    line-height: 1.25em;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    text-indent: 0
+    }
+.calibre14 {
+    display: table-header-group;
+    font-family: "EB Garamond 08";
+    line-height: 1.25em;
+    vertical-align: middle
+    }
+.calibre15 {
+    display: table-row;
+    font-family: "EB Garamond 08";
+    line-height: 1.25em;
+    vertical-align: inherit
+    }
+.calibre16 {
+    display: table-cell;
+    font-family: "EB Garamond 08";
+    font-weight: bold;
+    line-height: 1.25em;
+    padding-bottom: 1px;
+    padding-left: 1px;
+    padding-right: 1px;
+    padding-top: 1px;
+    vertical-align: inherit
+    }
+.calibre17 {
+    font-family: "EB Garamond 08";
+    font-feature-settings: "swsh" on;
+    font-style: italic;
+    line-height: 1.25em
+    }
+.calibre18 {
+    display: table-row-group;
+    font-family: "EB Garamond 08";
+    line-height: 1.25em;
+    vertical-align: middle
+    }
+.calibre19 {
+    display: table-cell;
+    font-family: "EB Garamond 08";
+    line-height: 1.25em;
+    padding-bottom: 1px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 1px;
+    text-align: inherit;
+    vertical-align: top
+    }
+.calibre20 {
+    display: block;
+    font-family: "EB Garamond 08";
+    line-height: 1.25em;
+    list-style-type: none;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.calibre21 {
+    display: list-item;
+    font-family: "EB Garamond 08";
+    font-size: 0.75em;
+    line-height: 1.2;
+    text-align: left;
+    white-space: nowrap
+    }
+.calibre22 {
+    display: list-item;
+    font-family: "EB Garamond 08";
+    font-size: 0.75em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: 1em
+    }
+.calibre23 {
+    font-family: "EB Garamond 08";
+    font-feature-settings: "swsh" on;
+    font-style: normal;
+    line-height: 1.25em
+    }
+.calibre24 {
+    display: block;
+    font-family: "EB Garamond 08";
+    font-size: 1.375em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.83em
+    }
+.calibre25 {
+    font-family: "EB Garamond 08";
+    line-height: 1.2
+    }
+.calibre26 {
+    display: block;
+    font-family: "EB Garamond 08";
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: justify
+    }
+.calibre27 {
+    font-family: "EB Garamond 08";
+    font-weight: bold
+    }
+.calibre28 {
+    display: block;
+    font-family: "EB Garamond 08";
+    list-style-type: lower-roman;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.calibre29 {
+    display: list-item;
+    font-family: "EB Garamond 08"
+    }
+.calibre30 {
+    display: block;
+    font-family: "EB Garamond 08";
+    list-style-type: lower-alpha;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.center {
+    display: block;
+    font-family: "EB Garamond 08";
+    line-height: 1.25em;
+    padding-top: 5em;
+    text-align: center
+    }
+.dropcap {
+    display: block;
+    font-family: "EB Garamond 08";
+    line-height: 1.25em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: justify
+    }
+.flowers {
+    font-family: "EB Garamond 08";
+    height: auto;
+    line-height: 1.25em;
+    width: 33%
+    }
+.forced-normal {
+    display: block;
+    font-family: "EB Garamond 08";
+    font-size: 1em;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.67em;
+    text-align: center
+    }
+.forced-normal1 {
+    display: block;
+    font-family: "EB Garamond 08";
+    font-size: 1em;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.67em;
+    text-align: justify
+    }
+.img {
+    font-family: "EB Garamond 08";
+    height: auto;
+    max-width: 66%;
+    }
+.imprint-part {
+    display: block;
+    font-family: "EB Garamond 08";
+    font-style: italic
+    }
+.noswash {
+    font-family: "EB Garamond 12";
+    font-feature-settings: "swsh" off;
+    font-style: italic;
+    line-height: 1.25em
+    }
+.sigil_not_in_toc {
+    display: block;
+    font-family: "EB Garamond 08";
+    font-size: 1.125em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.smallcaps {
+    font-family: "EB Garamond 08";
+    font-variant: small-caps;
+    line-height: 1.25em
+    }
+.smallcaps1 {
+    font-family: "EB Garamond 08";
+    font-feature-settings: "c2sc" on;
+    line-height: 1.25em
+    }
+.smallcaps2 {
+    display: block;
+    font-family: "EB Garamond 08";
+    font-feature-settings: "c2sc" on;
+    margin-bottom: 1em;
+    margin-left: 1em;
+    margin-right: 1em;
+    margin-top: 1em;
+    text-align: justify
+    }
+.spaced {
+    font-family: "EB Garamond 08";
+    letter-spacing: 0.5em
+    }
+.swash {
+    font-family: "EB Garamond 08";
+    font-feature-settings: "swsh" on
+    }
+.title {
+    display: block;
+    font-family: "EB Garamond 08"
+    }
+.title-page {
+    display: block;
+    font-family: "EB Garamond 08";
+    text-align: center
+    }
+.title-page1 {
+    display: block;
+    font-family: "EB Garamond 08";
+    line-height: 1.25em
+    }
+.title-part {
+    display: block;
+    font-family: "EB Garamond 08";
+    font-size: 0.75em;
+    line-height: 1.2
+    }
+.title-part1 {
+    display: block;
+    font-family: "EB Garamond 08";
+    font-size: 1em;
+    letter-spacing: 0.5em;
+    line-height: 1.2
+    }
+.title-part2 {
+    display: block;
+    font-family: "EB Garamond 08";
+    line-height: 1.2
+    }
+.title-part3 {
+    display: block;
+    font-family: "EB Garamond 08";
+    font-size: 0.75em;
+    letter-spacing: 0.1em;
+    line-height: 1.2
+    }
+.title-part4 {
+    display: block;
+    font-family: "EB Garamond 08";
+    font-size: 1em;
+    font-style: italic;
+    letter-spacing: 0.5em;
+    line-height: 1.2
+    }
+.title-part5 {
+    display: block;
+    font-family: "EB Garamond 08";
+    font-size: 1.375em;
+    font-style: italic;
+    letter-spacing: 0.5em;
+    line-height: 1.2
+    }
+.title-part6 {
+    display: block;
+    font-family: "EB Garamond 08";
+    font-size: 0.875em;
+    line-height: 2em;
+    text-align: center
+    }
+.title-part7 {
+    display: block;
+    font-family: "EB Garamond 08";
+    font-size: 1.5em;
+    letter-spacing: 0.5em;
+    line-height: 1.25em;
+    text-align: center
+    }
+.title-part8 {
+    display: block;
+    font-family: "EB Garamond 08";
+    font-size: 0.875em;
+    letter-spacing: 0.1em;
+    line-height: 2em;
+    text-align: center
+    }
+.title-part9 {
+    display: block;
+    font-family: "EB Garamond 08";
+    font-size: 1.375em;
+    font-style: italic;
+    letter-spacing: 0.5em;
+    line-height: 1.2;
+    text-align: center
+    }
+.title1 {
+    display: block;
+    font-family: "EB Garamond 08";
+    line-height: 1.25em;
+    text-align: center
+    }
+.topborder {
+    display: block;
+    font-family: "EB Garamond 08";
+    line-height: 1.25em;
+    padding-bottom: 1em;
+    text-align: center
+    }
+.pcalibre:first-letter {
+    float: left;
+    font-size: 2em;
+    margin-top: 0.25em;
+    padding-left: 3px;
+    padding-right: 2px
+    }
+
+body {
+max-width: 5in;
+}
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    font-family: "EB Garamond 08";
+    src: url(fonts/EB-Garamond-08-Regular.otf)
+    }
+@font-face {
+    font-family: "EB Garamond 08";
+    font-style: italic;
+    src: url(fonts/EB-Garamond-08-Italic.otf)
+    }
+@font-face {
+    font-family: "EB Garamond 12";
+    font-style: italic;
+    src: url(fonts/EB-Garamond-12-Italic.otf)
+    }
+
